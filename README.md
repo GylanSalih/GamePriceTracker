@@ -71,10 +71,6 @@ The Gaming Scraper is a Python-based tool designed to search for gaming products
 
 Coming Soon :)
 
-## Logging
-
-The script creates a `OrganizeMyFiles.log` file in the project directory, where it logs all actions such as successful file moves, error messages, and deleted empty folders.
-
 ## Contributing
 
 If you'd like to contribute to this project, please fork the repository and use a feature branch. Pull requests are warmly welcome.
