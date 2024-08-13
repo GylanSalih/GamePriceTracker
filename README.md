@@ -69,17 +69,7 @@ The Gaming Scraper is a Python-based tool designed to search for gaming products
 
 ## Customization
 
-You can customize the file types and categories by editing the `file_types` dictionary in the script:
-
-```python
-file_types = {
-    'Images': ['.jpg', '.jpeg', '.png', ...],
-    'Documents': ['.pdf', '.docx', ...],
-    ...
-}
-```
-
-Add or remove extensions as needed to fit your specific requirements.
+Coming Soon :)
 
 ## Logging
 
