@@ -1,0 +1,5 @@
+requests
+beautifulsoup4
+pandas
+matplotlib
+sqlite3  # This is usually included with Python standard library
