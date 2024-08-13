@@ -48,7 +48,7 @@ The Gaming Scraper is a Python-based tool designed to search for gaming products
 2. **Navigate to the project directory**:
 
    ```bash
-   cd OrganizeMyFiles
+   cd Gaming-Ebay-Scrapper
    ```
 
 3. **Install dependencies** (if any):
@@ -56,21 +56,9 @@ The Gaming Scraper is a Python-based tool designed to search for gaming products
 
 ## Usage
 
-1. Open the script in your preferred text editor.
+1. Coming Soon :)
 
-2. Modify the `download_folder` variable to point to the directory you want to organize:
 
-   ```python
-   download_folder = 'C:/Users/YourUsername/Downloads'
-   ```
-
-3. Run the script:
-
-   ```bash
-   python Gaming-Ebay-Scrapper.py
-   ```
-
-4. The script will organize files into subfolders within the specified directory based on their file types.
 
 ## Customization
 
