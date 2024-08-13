@@ -24,7 +24,13 @@
 [issues-url]: https://github.com/GylanSalih/OrganizeMyFiles/issues
 [license-url]: https://github.com/GylanSalih/OrganizeMyFiles/blob/main/LICENSE
 
-# Gaming-Ebay-Scrapper
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+    <img src="https://github.com/GylanSalih/GamingScrapper/blob/main/Showcase_Github.png" alt="Logo">
+  </a>
+   
+# Ebay Gaming Scrapper
 
 The Gaming Scraper is a Python-based tool designed to search for gaming products on eBay and analyze their prices over time. This scraper retrieves data based on user-defined search queries, applies filters, and provides insights into price trends. It also supports saving the scraped data to both CSV files and an SQLite database, allowing for long-term analysis and tracking.
 
