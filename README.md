@@ -31,7 +31,7 @@
   </a>
 </div>
 
-# Ebay Gaming Scrapper
+# GamePriceTracker
 
 The Gaming Scraper is a Python-based tool designed to search for gaming products on eBay and analyze their prices over time. This scraper retrieves data based on user-defined search queries, applies filters, and provides insights into price trends. It also supports saving the scraped data to both CSV files and an SQLite database, allowing for long-term analysis and tracking.
 
@@ -49,13 +49,13 @@ The Gaming Scraper is a Python-based tool designed to search for gaming products
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/GylanSalih/Gaming-Ebay-Scrapper
+   git clone https://github.com/GylanSalih/GamePriceTracker
    ```
 
 2. **Navigate to the project directory**:
 
    ```bash
-   cd Gaming-Ebay-Scrapper
+   cd GamePriceTracker
    ```
 
 3. **Install dependencies** (if any):
