@@ -24,17 +24,18 @@
 [issues-url]: https://github.com/GylanSalih/OrganizeMyFiles/issues
 [license-url]: https://github.com/GylanSalih/OrganizeMyFiles/blob/main/LICENSE
 
-# File Sorter
+# Gaming-Ebay-Scrapper
 
-This Python script automatically organizes files in a specified directory (e.g., your Downloads folder) into categorized subfolders based on their file types. The script supports a wide range of file extensions and can handle duplicates, empty folders, and logs its actions.
+The Gaming Scraper is a Python-based tool designed to search for gaming products on eBay and analyze their prices over time. This scraper retrieves data based on user-defined search queries, applies filters, and provides insights into price trends. It also supports saving the scraped data to both CSV files and an SQLite database, allowing for long-term analysis and tracking.
 
 ## Features
 
-- **Automatic File Sorting**: Moves files into categorized folders based on their extensions.
-- **Wide File Type Support**: Includes categories like Images, Documents, Videos, Audio, Archives, Coding files, and more.
-- **Duplicate Handling**: Renames files if a file with the same name already exists in the destination folder.
-- **Empty Folder Cleanup**: Automatically deletes empty folders after sorting.
-- **Logging**: Logs all actions (e.g., file moves, errors) into a `file_sorting.log` file.
+- **Search eBay**: Perform searches for gaming products on eBay with customizable search queries.
+- **Filter Results**: Exclude items based on user-defined keywords and languages.
+- **Condition Filtering**: Filter products based on their condition (e.g., New, Like New, etc.).
+- **Data Storage**: Save results to CSV files and an SQLite database for easy access and future analysis.
+- **Price Trend Analysis**: Visualize historical price trends of gaming products.
+- **URL Shortening**: Shorten eBay item URLs for cleaner output.
 
 ## Installation
 
